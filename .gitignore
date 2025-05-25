@@ -1,0 +1,15 @@
+# Node backend
+server/node_modules/
+server/.env
+
+# React frontend - Admin
+admin-panel/node_modules/
+admin-panel/dist/
+
+# React frontend - Client
+website/node_modules/
+website/dist/
+
+# OS/system files
+.DS_Store
+*.log
