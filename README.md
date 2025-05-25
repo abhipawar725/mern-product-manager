@@ -1,2 +1,18 @@
-# mern-product-manager
-This is a full-stack Admin Panel built using the MERN Stack (MongoDB, Express.js, React.js, Node.js). It allows an admin to sign up, log in, and perform full CRUD operations (Create, Read, Update, Delete) on products. The public-facing side displays a product list that is visible to all users.
+# MERN Product Manager
+
+This is a full-stack MERN application that includes:
+- 🔐 Admin Panel (React + Vite)
+- 🛒 Public Website (React + Vite)
+- ⚙️ Backend API (Node.js + Express + MongoDB)
+
+### Features
+- User login/signup
+- Add/edit/delete product (Admin)
+- Product listing on public site
+- Real-world structure for eCommerce
+
+### Tech Stack
+- React (Vite)
+- Node.js + Express
+- MongoDB + Mongoose
+- JWT + bcrypt
